@@ -50,7 +50,7 @@ def precos(a):
     print()
 
     
-#O Programa realmente começa aqui:
+#INÍCIO DO PROGRAMA
 print("Bem Vindo ao Programa da Loja de Tintas 3.0")
 loop = 1
 choice = 0
