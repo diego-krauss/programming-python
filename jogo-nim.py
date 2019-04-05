@@ -1,3 +1,4 @@
+#FUNÇÕES
 def computador_escolhe_jogada(n, m):    
     if n <= m:
         return n
@@ -103,6 +104,7 @@ def main():
         if escolha == 2:
             print("\nVocê escolheu um campeonato!\n")
             campeonato()
-
+            
+#INÍCIO DO PROGRAMA
 main()
     
