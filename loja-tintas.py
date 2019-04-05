@@ -1,7 +1,7 @@
-#Módulos
+#MÓDULOS
 import math
 
-#Funções
+#FUNÇÕES
 def func(situacoes):
     situacoes = eval(input("""Para comprar apenas latas de 18 litros digite 1
 Para comprar apenas galões de 3,6 litros digite 2
